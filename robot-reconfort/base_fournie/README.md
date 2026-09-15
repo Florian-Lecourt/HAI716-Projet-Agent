@@ -1,9 +1,9 @@
-# Base fournie — projet « Robot de réconfort »
+# Base fournie : projet « Robot de réconfort »
 
 Ce dossier contient le strict minimum pour démarrer : de quoi **lire les
-entrées** et **écrire la sortie**. Tout le reste — perception, carte
-mentale, planification, consultation du dictionnaire, fouille de l'armoire,
-boucle de décision — est le sujet du projet.
+entrées** et **écrire la sortie**. Tout le reste (perception, carte mentale,
+planification, consultation du dictionnaire, fouille de l'armoire, boucle de
+décision) est le sujet du projet.
 
 ## Contenu
 
@@ -60,7 +60,7 @@ savoir si votre robot marche vraiment.
 Votre agent n'a le droit de lire ni le champ `grille` de la carte, ni le
 champ `objet` des casiers. Il découvre les murs case par case à travers ses
 perceptions, et le contenu des casiers en se plaçant devant. Voir les
-sections 3.2 et 3.3 de l'énoncé — c'est vérifié à la correction.
+sections 3.2 et 3.3 de l'énoncé : c'est vérifié à la correction.
 
 Si l'algorithmique des graphes ne vous est pas familière, lisez l'annexe B
 de l'énoncé avant d'écrire quoi que ce soit : elle contient tout le

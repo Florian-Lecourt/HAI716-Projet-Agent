@@ -41,7 +41,7 @@ Une archive `NOM1_NOM2.zip` contenant, à sa racine :
 3. **vos tests**, et la commande qui les lance, indiquée dans le README ;
 4. **un README** : comment lancer, comment tester, ce qui marche, ce qui ne
    marche pas. Un squelette à recopier vous est fourni dans
-   `base_fournie/MODELE_README.md` ;
+   `robot-reconfort/base_fournie/MODELE_README.md` ;
 5. **un rapport** de 3 pages maximum (section 11) ;
 6. **une vidéo de démonstration** de 1 min 30 maximum (section 2 bis) ;
 7. **le dépôt Git** de votre travail (dossier `.git` inclus, ou une URL).
@@ -569,7 +569,7 @@ se voit.
 
 ## 9. La base de code fournie
 
-Le dossier `base_fournie/` contient :
+Le dossier `robot-reconfort/base_fournie` contient :
 
 ```
 reconfort_io.py                 lecture des 4 fichiers, écriture de la trace
